@@ -1,4 +1,4 @@
-# Badoo Tech Blog Terms and Conditions
+# Ject Sport Mobile Terms and Conditions
 
 These Terms and Conditions of Use (**Terms**) and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Terms, the English version shall prevail.
 
@@ -20,7 +20,7 @@ You can’t edit the articles but we want to hear your views and welcome comment
   * contains any spy ware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Badoo or otherwise; or
   * itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights).
 
-Please use your common sense when posting on the Blog, because you are solely responsible for, and bear all liability in relation to, your postings! Badoo has no obligation to monitor the content of the Blog. However, Badoo reserves the right to review content posted to the Blog and to remove any content at any time, without notice, for any reason and in its sole discretion. 
+Please use your common sense when posting on the Blog, because you are solely responsible for, and bear all liability in relation to, your postings! Badoo has no obligation to monitor the content of the Blog. However, Badoo reserves the right to review content posted to the Blog and to remove any content at any time, without notice, for any reason and in its sole discretion.
 Opinions and other statements expressed by third parties are theirs alone, not opinions of Badoo. Content created by third parties is the sole responsibility of the third parties and its accuracy and completeness are not endorsed or guaranteed. The Blog and third parties may provide links to web pages, web sites, and various resources or locations on the web. Badoo has no control over the information you access via such links, does not endorse that information, and shall not be responsible for it or for the consequences of your use of that information.
 
 ## Ownership of Content
@@ -66,6 +66,6 @@ If you have any technical issues viewing our site please contact: [admin@jectspo
 ## About us
 techblog.badoo.com is a site owned and operated by Badoo Trading Limited.
 
-We are registered in England under company number 07540255.
+We are registered in Myanmar under company number 07540255.
 
-Our registered office is at Media Village, 131 - 151 Great Titchfield Street, London, W1W 5BB.
+Our registered office is at Thingan Gyun, 131 - 151 Great Titchfield Street, Yangon, W1W 5BB.
