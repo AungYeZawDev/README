@@ -4,7 +4,7 @@
         "title": "Beef Noodle Soup",
         "description": "A hearty soup made with tender beef, noodles, and vegetables.",
         "meal": "beef",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_noodle_soup.png",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_lo_mein.jpg",
         "price": 9.99
     },
     {
@@ -12,7 +12,7 @@
         "title": "Chicken Lo Mein",
         "description": "Stir-fried noodles with juicy chicken and fresh vegetables.",
         "meal": "chicken",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_lo_mein.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/spicy_garlic_shrimp.jpg",
         "price": 8.99
     },
     {
@@ -20,7 +20,7 @@
         "title": "Pork Fried Rice",
         "description": "Fluffy white rice stir-fried with savory pork and vegetables.",
         "meal": "pork",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/pork_fried_rice.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/vegetable_chow_mein.png",
         "price": 7.99
     },
     {
@@ -28,7 +28,7 @@
         "title": "Vegetable Chow Mein",
         "description": "A delicious mix of stir-fried vegetables and noodles.",
         "meal": "vegetarian",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/vegetable_chow_mein.png",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_lo_mein.jpg",
         "price": 6.99
     }
 ]
