@@ -1,34 +1,34 @@
 [
-{
-"id": 1,
-"title": "Classic Hamburger",
-"description": "A juicy beef patty served on a soft sesame bun with lettuce, tomato, and onion.",
-"meal": "beef",
-"image": "https://testwebappxsphere.000webhostapp.com/images/hamburger.jpg",
-"price": 8.99
-},
-{
-"id": 2,
-"title": "Grilled Chicken Caesar Salad",
-"description": "Crisp romaine lettuce topped with tender grilled chicken, parmesan cheese, and croutons.",
-"meal": "chicken",
-"image": "https://testwebappxsphere.000webhostapp.com/images/chicken_caesar_salad.jpg",
-"price": 9.99
-},
-{
-"id": 3,
-"title": "Pulled Pork Sandwich",
-"description": "Slow-cooked pulled pork served on a brioche bun with coleslaw and BBQ sauce.",
-"meal": "pork",
-"image": "https://testwebappxsphere.000webhostapp.com/images/pulled_pork_sandwich.jpg",
-"price": 10.99
-},
-{
-"id": 4,
-"title": "Margherita Pizza",
-"description": "A classic pizza topped with fresh mozzarella, basil, and tomato sauce.",
-"meal": "vegetarian",
-"image": "https://testwebappxsphere.000webhostapp.com/images/margherita_pizza.jpg",
-"price": 11.99
-},
-  ]
+    {
+        "id": 1,
+        "title": "Classic Hamburger",
+        "description": "A juicy beef patty served on a soft sesame bun with lettuce, tomato, and onion.",
+        "meal": "beef",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/hamburger.jpg",
+        "price": 8.99
+    },
+    {
+        "id": 2,
+        "title": "Grilled Chicken Caesar Salad",
+        "description": "Crisp romaine lettuce topped with tender grilled chicken, parmesan cheese, and croutons.",
+        "meal": "chicken",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_caesar_salad.jpg",
+        "price": 9.99
+    },
+    {
+        "id": 3,
+        "title": "Pulled Pork Sandwich",
+        "description": "Slow-cooked pulled pork served on a brioche bun with coleslaw and BBQ sauce.",
+        "meal": "pork",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/pulled_pork_sandwich.jpg",
+        "price": 10.99
+    },
+    {
+        "id": 4,
+        "title": "Margherita Pizza",
+        "description": "A classic pizza topped with fresh mozzarella, basil, and tomato sauce.",
+        "meal": "vegetarian",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/margherita_pizza.jpg",
+        "price": 11.99
+    }
+]
