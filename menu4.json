@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Shrimp Fried Rice",
+        "description": "Classic fried rice with succulent shrimp, scrambled eggs, and fresh vegetables.",
+        "meal": "none",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/shrimp_fried_rice.jpg",
+        "price": 12.99
+    },
+    {
+        "id": 2,
+        "title": "Ma Po Tofu",
+        "description": "A spicy Sichuan dish made with tofu, minced meat, and chili bean sauce.",
+        "meal": "pork",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/ma_po_tofu.jpg",
+        "price": 11.99
+    }
+]
