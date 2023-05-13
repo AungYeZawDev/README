@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Spicy Garlic Shrimp",
+        "description": "Tender shrimp sauteed with garlic and spicy chili peppers.",
+        "meal": "none",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/spicy_garlic_shrimp.jpg",
+        "price": 11.99
+    },
+    {
+        "id": 2,
+        "title": "Mushroom and Tofu Stir Fry",
+        "description": "A vegetarian dish with savory mushrooms and tofu, stir-fried to perfection.",
+        "meal": "vegetarian",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/mushroom_tofu_stir_fry.jpg",
+        "price": 8.99
+    },
+    {
+        "id": 3,
+        "title": "Beef and Broccoli",
+        "description": "Thin slices of tender beef stir-fried with crisp broccoli in a savory sauce.",
+        "meal": "beef",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_broccoli.jpg",
+        "price": 10.99
+    },
+    {
+        "id": 4,
+        "title": "General Tso's Chicken",
+        "description": "Crispy fried chicken in a sweet and spicy sauce, served with steamed rice.",
+        "meal": "chicken",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/general_tsos_chicken.png",
+        "price": 9.99
+    }
+]
