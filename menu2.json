@@ -4,7 +4,7 @@
         "title": "Classic Hamburger",
         "description": "A juicy beef patty served on a soft sesame bun with lettuce, tomato, and onion.",
         "meal": "beef",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/hamburger.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_noodle_soup.png",
         "price": 8.99
     },
     {
@@ -12,7 +12,7 @@
         "title": "Grilled Chicken Caesar Salad",
         "description": "Crisp romaine lettuce topped with tender grilled chicken, parmesan cheese, and croutons.",
         "meal": "chicken",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_caesar_salad.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_broccoli.jpg",
         "price": 9.99
     },
     {
@@ -20,7 +20,7 @@
         "title": "Pulled Pork Sandwich",
         "description": "Slow-cooked pulled pork served on a brioche bun with coleslaw and BBQ sauce.",
         "meal": "pork",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/pulled_pork_sandwich.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/shrimp_fried_rice.jpg",
         "price": 10.99
     },
     {
@@ -28,7 +28,7 @@
         "title": "Margherita Pizza",
         "description": "A classic pizza topped with fresh mozzarella, basil, and tomato sauce.",
         "meal": "vegetarian",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/margherita_pizza.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/ma_po_tofu.jpg",
         "price": 11.99
     }
 ]
