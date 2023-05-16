@@ -1,34 +1,35 @@
 [
     {
         "id": 1,
-        "title": "Spicy Garlic Shrimp",
-        "description": "Tender shrimp sauteed with garlic and spicy chili peppers.",
-        "meal": "none",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/spicy_garlic_shrimp.jpg",
-        "price": 11.99
+        "title": "Fish Ball Kyay-Oh",
+        "description": "A traditional Burmese noodle soup made with tender fish balls, rice noodles, and a fragrant broth infused with lemongrass, ginger, and garlic.",
+        "meal": "fish",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/fish_ball_kyay_oh.jpg",
+        "price": 6.99
     },
     {
         "id": 2,
-        "title": "Mushroom and Tofu Stir Fry",
-        "description": "A vegetarian dish with savory mushrooms and tofu, stir-fried to perfection.",
-        "meal": "vegetarian",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/mushroom_tofu_stir_fry.jpg",
-        "price": 8.99
+        "title": "Chicken Kyay-Oh",
+        "description": "A satisfying noodle soup with tender chicken and fresh veggies in a flavorful broth. Perfect for lunch or dinner.",
+         "meal": "chicken",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_kyay_oh.jpg",
+        "price": 7.99
     },
     {
         "id": 3,
-        "title": "Beef and Broccoli",
-        "description": "Thin slices of tender beef stir-fried with crisp broccoli in a savory sauce.",
-        "meal": "beef",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_broccoli.jpg",
-        "price": 10.99
+        "title": "Prawn Kyay-Oh",
+        "description": "A delicious noodle soup made with succulent prawns, vegetables, and aromatic spices.",
+        "meal": "prawn",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/prawn_kyay_oh.jpg",
+        "price": 9.99
     },
     {
         "id": 4,
-        "title": "General Tso's Chicken",
-        "description": "Crispy fried chicken in a sweet and spicy sauce, served with steamed rice.",
-        "meal": "chicken",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/general_tsos_chicken.png",
+        "title": "Sour and Spicy Kyay-Oh",
+        "description": "A tantalizing combination of tender chicken, juicy pork, and succulent prawn in a spicy and sour broth, served with rice noodles and fresh herbs.",
+        "meal": "mixed",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/sour_and_spicy_kyay_oh.jpg",
         "price": 9.99
-    }
+      }
+
 ]
