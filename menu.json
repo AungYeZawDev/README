@@ -17,11 +17,11 @@
     },
     {
         "id": 3,
-        "title": "Pork Fried Rice",
-        "description": "Fluffy white rice stir-fried with savory pork and vegetables.",
-        "meal": "pork",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/pork_fried_rice.jpg",
-        "price": 7.99
+        "title": "Mushroom and Tofu Stir Fry",
+        "description": "A vegetarian dish with savory mushrooms and tofu, stir-fried to perfection.",
+        "meal": "vegetarian",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/mushroom_tofu_stir_fry.jpg",
+        "price": 8.99
     },
     {
         "id": 4,
