@@ -33,10 +33,10 @@
     },
     {
         "id": 5,
-        "title": "Spicy Garlic Shrimp",
-        "description": "Tender shrimp sauteed with garlic and spicy chili peppers.",
+        "title": "Soft Drinks",
+        "description": "Refreshing beverages to quench your thirst.",
         "meal": "none",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/spicy_garlic_shrimp.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/soft_drinks.jpg",
         "price": 11.99
     }
 ]
