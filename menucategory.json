@@ -12,7 +12,7 @@
         "title": "Seafood",
         "description": "Fresh and delicious seafood dishes.",
         "meal": "chicken",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_lo_mein.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/seafood.jpg",
         "price": 8.99
     },
     {
@@ -20,7 +20,7 @@
         "title": "Kyay-Oh",
         "description": "A popular delicious noodle soup.",
         "meal": "pork",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/pork_fried_rice.jpg",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/kyay_oh.jpg",
         "price": 7.99
     },
     {
@@ -28,7 +28,7 @@
         "title": "Soups",
         "description": "Warm and comforting soups.",
         "meal": "vegetarian",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/vegetable_chow_mein.png",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/soups.jpg",
         "price": 6.99
     },
     {
