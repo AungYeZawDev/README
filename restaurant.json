@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "title": "Noodles",
+        "description": "Satisfying noodle dishes to warm you up.",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/beef_noodle_soup.png",
+        "items": [
+            {
+                "id": 1,
+                "title": "Beef Noodle Soup",
+                "description": "A hearty soup made with tender beef, noodles, and vegetables.",
+                "meal": "beef",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/beef_noodle_soup.png",
+                "price": 9.99
+            },
+            {
+                "id": 2,
+                "title": "Chicken Lo Mein",
+                "description": "Stir-fried noodles with juicy chicken and fresh vegetables.",
+                "meal": "chicken",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_lo_mein.jpg",
+                "price": 8.99
+            },
+            {
+                "id": 3,
+                "title": "Mushroom and Tofu Stir Fry",
+                "description": "A vegetarian dish with savory mushrooms and tofu, stir-fried to perfection.",
+                "meal": "vegetarian",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/mushroom_tofu_stir_fry.jpg",
+                "price": 8.99
+            },
+            {
+                "id": 4,
+                "title": "Vegetable Chow Mein",
+                "description": "A delicious mix of stir-fried vegetables and noodles.",
+                "meal": "vegetarian",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/vegetable_chow_mein.png",
+                "price": 6.99
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Seafood",
+        "description": "Fresh and delicious seafood dishes.",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/seafood.jpg",
+        "items": [
+            {
+                "id": 1,
+                "title": "Shrimp Fried Rice",
+                "description": "A savory fried rice dish made with plump shrimp, vegetables, and eggs.",
+                "meal": "lunch",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/shrimp_fried_rice.jpg",
+                "price": 10.99
+            },
+            {
+                "id": 2,
+                "title": "Rakhine-style Fish Curry",
+                "description": "A spicy and tangy fish curry from the Rakhine state of Myanmar/Burma, made with turmeric, shrimp paste, and tamarind.",
+                "meal": "dinner",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/rakhine_fish_curry.jpg",
+                "price": 11.99
+            },
+            {
+                "id": 3,
+                "title": "Grilled Squid",
+                "description": "Fresh squid grilled to perfection with garlic, lime, and herbs.",
+                "meal": "dinner",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/grilled_squid.jpg",
+                "price": 12.99
+            },
+            {
+                "id": 4,
+                "title": "Seafood Noodle Soup",
+                "description": "A comforting noodle soup loaded with shrimp, fish, squid, and vegetables.",
+                "meal": "lunch",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/seafood_noodle_soup.png",
+                "price": 9.99
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Kyay-Oh",
+        "description": "A popular delicious noodle soup.",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/kyay_oh.jpg",
+        "items": [
+            {
+                "id": 1,
+                "title": "Fish Ball Kyay-Oh",
+                "description": "A traditional Burmese noodle soup made with tender fish balls, rice noodles, and a fragrant broth infused with lemongrass, ginger, and garlic.",
+                "meal": "fish",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/fish_ball_kyay_oh.jpg",
+                "price": 6.99
+            },
+            {
+                "id": 2,
+                "title": "Chicken Kyay-Oh",
+                "description": "A satisfying noodle soup with tender chicken and fresh veggies in a flavorful broth. Perfect for lunch or dinner.",
+                "meal": "chicken",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/chicken_kyay_oh.jpg",
+                "price": 7.99
+            },
+            {
+                "id": 3,
+                "title": "Prawn Kyay-Oh",
+                "description": "A delicious noodle soup made with succulent prawns, vegetables, and aromatic spices.",
+                "meal": "prawn",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/prawn_kyay_oh.jpg",
+                "price": 9.99
+            },
+            {
+                "id": 4,
+                "title": "Sour and Spicy Kyay-Oh",
+                "description": "A tantalizing combination of tender chicken, juicy pork, and succulent prawn in a spicy and sour broth, served with rice noodles and fresh herbs.",
+                "meal": "mixed",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/sour_and_spicy_kyay_oh.jpg",
+                "price": 9.99
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Soups",
+        "description": "Warm and comforting soups.",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/soups.jpg",
+        "items": [
+            {
+                "id": 1,
+                "title": "French Onion Soup",
+                "description": "A rich and savory soup made with caramelized onions, beef broth, and melted cheese.",
+                "meal": "dinner",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/french_onion_soup.jpg",
+                "price": 7.99
+            },
+            {
+                "id": 2,
+                "title": "Tomato Soup",
+                "description": "A classic and comforting soup made with ripe tomatoes, garlic, and fresh basil.",
+                "meal": "lunch",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/tomato_soup.jpg",
+                "price": 5.99
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Soft Drinks",
+        "description": "Refreshing beverages to quench your thirst.",
+        "image": "https://testwebappxsphere.000webhostapp.com/images/soft_drinks.jpg",
+        "items": [
+            {
+                "id": 1,
+                "title": "Coca-Cola",
+                "description": "A refreshing carbonated soft drink.",
+                "meal": "none",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/cocacola.png",
+                "price": 1.50
+            },
+            {
+                "id": 2,
+                "title": "Sprite",
+                "description": "A lemon-lime flavored carbonated soft drink.",
+                "meal": "none",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/sprite.png",
+                "price": 1.50
+            },
+            {
+                "id": 3,
+                "title": "Fanta",
+                "description": "A fruity carbonated soft drink.",
+                "meal": "none",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/fanta.jpg",
+                "price": 1.50
+            },
+            {
+                "id": 4,
+                "title": "Lemon Iced Tea",
+                "description": "A refreshing blend of black tea, lemon, and sugar.",
+                "meal": "none",
+                "image": "https://testwebappxsphere.000webhostapp.com/images/lemon_iced_tea.jpg",
+                "price": 1.75
+            }
+        ]
+    }
+]
