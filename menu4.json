@@ -1,18 +1,18 @@
 [
     {
-        "id": 1,
-        "title": "Shrimp Fried Rice",
-        "description": "Classic fried rice with succulent shrimp, scrambled eggs, and fresh vegetables.",
-        "meal": "none",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/shrimp_fried_rice.jpg",
-        "price": 12.99
+      "id": 1,
+      "title": "French Onion Soup",
+      "description": "A rich and savory soup made with caramelized onions, beef broth, and melted cheese.",
+      "meal": "dinner",
+      "image": "https://testwebappxsphere.000webhostapp.com/images/french_onion_soup.jpg",
+      "price": 7.99
     },
     {
-        "id": 2,
-        "title": "Ma Po Tofu",
-        "description": "A spicy Sichuan dish made with tofu, minced meat, and chili bean sauce.",
-        "meal": "pork",
-        "image": "https://testwebappxsphere.000webhostapp.com/images/ma_po_tofu.jpg",
-        "price": 11.99
+      "id": 2,
+      "title": "Tomato Soup",
+      "description": "A classic and comforting soup made with ripe tomatoes, garlic, and fresh basil.",
+      "meal": "lunch",
+      "image": "https://testwebappxsphere.000webhostapp.com/images/tomato_soup.jpg",
+      "price": 5.99
     }
 ]
